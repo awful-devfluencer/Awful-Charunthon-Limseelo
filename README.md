@@ -1,6 +1,8 @@
 # Awful Charunthon Limseelo
 วีรกรรมของชายนามว่าโบ๊ท https://www.facebook.com/boatchrnthn
 
+English Version :
+
 # วัตถุประสงค์ของ Repo นี้
 เผยแพร่วีรกรรม ให้เป็นที่ทราบในวงกว้าง เพื่อลดความเสียหายจากบุคคลคนนี้
 
@@ -9,6 +11,9 @@
 - โบ๊ท
 - ชลันธร
 - โบ๊ทบางมด
+- Charunthon Limseelo
+- Charunthon (Boat) Limseelo
+- Boat Charunthon Limseelo
 
 # Keyword อื่นๆ ที่เกี่ยวข้อง
 Boat, โบ๊ทจาก Microsoft อ.โบ๊ท
