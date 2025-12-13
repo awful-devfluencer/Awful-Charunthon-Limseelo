@@ -1,4 +1,4 @@
-ที่มา : https://youtu.be/iUTIaJPViYo?si=HyZo-cwVxdM1_WEF<br>
+Source : https://youtu.be/iUTIaJPViYo?si=HyZo-cwVxdM1_WEF<br>
 [18_FOSSASIA2025_SLM_final.pdf](https://github.com/user-attachments/files/23873692/18_FOSSASIA2025_SLM_final.pdf)
 <br>Observation on the Use of the Title "Thai Student Tech Lead" of the Thai Programmers Association
 Content:
