@@ -1,4 +1,4 @@
-ที่มา: https://github.com/chrnthnkmutt/resources/blob/main/slides/11_GHCopilot_GHCodespaces.pdf หรือ
+Source: https://github.com/chrnthnkmutt/resources/blob/main/slides/11_GHCopilot_GHCodespaces.pdf Or
 [11_GHCopilot_GHCodespaces.pdf](https://github.com/user-attachments/files/23961723/11_GHCopilot_GHCodespaces.pdf)
 
 Incident: Microsoft Season of AI Presentation Slide 37
