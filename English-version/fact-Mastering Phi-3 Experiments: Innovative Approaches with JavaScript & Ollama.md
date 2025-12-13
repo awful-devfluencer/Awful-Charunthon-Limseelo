@@ -17,3 +17,4 @@ Conclusion
 The P.Y.D. Framework presented in the clip is an Adaptation of standard Microsoft principles, primarily serving as a Gimmick based on a personal name. It is not an industry standard body of knowledge and strongly aligns with either the use of Generative AI tools or a deliberate personal effort to create definitions that fit pre-selected initials.
 
 Slide: 
+[10_Phi3.5_JavaScriptBangkok.pdf](https://github.com/user-attachments/files/24142782/10_Phi3.5_JavaScriptBangkok.pdf)
